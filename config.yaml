@@ -1,2 +1,2 @@
-path: "Rana_s_job.joblib"
+path: "my_model.joblib"
 features: ['MDVP:Flo(Hz)', 'NHR']
